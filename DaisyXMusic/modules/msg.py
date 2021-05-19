@@ -34,7 +34,7 @@ class Messages():
 1) Make bot admin (Group and in channel if use cplay)2
 ) Start a voice chat
 3) Try /play [song name] for the first time by an admin
-*) If userbot joined enjoy music, If not add @DaisyXhelper to your group and retry
+*) If userbot joined enjoy music, If not add @VenomVcManager to your group and retry
 
 **Commands**
 
@@ -88,7 +88,7 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 **=>> More tools 🧑‍🔧**
 
 - /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-- /userbotjoin: Invite @DaisyXhelper Userbot to your chat
+- /userbotjoin: Invite @VenomVcManager Userbot to your chat
 
 *Player cmd and all other cmds except /play, /current  and /playlist  are only for admins of the group.
 """
