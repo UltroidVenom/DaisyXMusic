@@ -30,12 +30,16 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "📲 Updates Channel 📲", url="https://t.me/CrackMonkey")
+                        "Add Me To Your Group", url="http://t.me/VenomMusicBot?startgroup=true")
                   ],
-                [ 
+               [
                     InlineKeyboardButton(
-                        "💬 Support Chat 💬", url="https://t.me/CrackMonkeyChats"
-                    )]
+                        "🔈 Channel", url="https://t.me/CrackMonkey"
+                    ),
+                    InlineKeyboardButton(
+                        "Group 💬", url="https://t.me/CrackMonkeyChats"
+                    )
+                ]
             ]
         ),
         reply_to_message_id=message.message_id
