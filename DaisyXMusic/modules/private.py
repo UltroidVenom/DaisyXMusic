@@ -30,14 +30,19 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "Add Me To Your Group", url="http://t.me/VenomMusicBot?startgroup=true")
+                        "⚒ мy σωηєя ⚒", url="http://t.me/R2K_VENOM")
                   ],
                [
                     InlineKeyboardButton(
-                        "🔈 Channel", url="https://t.me/CrackMonkey"
+                        "🔈 cнαηηєł", url="https://t.me/CrackMonkey"
                     ),
                     InlineKeyboardButton(
-                        "Group 💬", url="https://t.me/CrackMonkeyChats"
+                        "gяσυρ 💬", url="https://t.me/CrackMonkeyChats"
+                    )
+              ],
+                [
+                    InlineKeyboardButton(
+                        "α∂∂ мє тσ yσυя gяσυρ", url="http://t.me/VenomMusicBot?startgroup=true"
                     )
                 ]
             ]
@@ -53,7 +58,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎙️ Support Group 🎙️", url="https://t.me/CrackMonkeyChats"
+                        "🎙️ sυρρσят gяσυρ 🎙️", url="https://t.me/CrackMonkeyChats"
                     )
                 ]
             ]
