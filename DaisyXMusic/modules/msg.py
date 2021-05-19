@@ -21,11 +21,11 @@ class Messages():
       HELP_MSG = [
         ".",
 """
-**》 DAISYXMUSIC v4 《**
+**》 ѵєησм мυsıc 《**
 
-⚪️ DAISYXMUSIC plays music in your group's voice chat as well as channel voice chats
+⚪️ ✯ ѵєησм мυsıc вσт ✯ plays music in your group's voice chat as well as channel voice chats
 
-⚪️ Assistant name >> @DaisyXhelper
+⚪️ Assistant name >> @VenomVcManager
 """,
 
 """
@@ -79,8 +79,8 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 
 1) Get your channel ID.
 2) Create a group with tittle: Channel Music: your_channel_id
-3) Add @DaisyXBot as Channel admin with full perms
-4) Add @DaisyXhelper to the channel as an admin.
+3) Add @VenomMusicBot as Channel admin with full perms
+4) Add @VenomVcManager to the channel as an admin.
 5) Simply send commands in your group.
 """,
 
